@@ -1,0 +1,19 @@
+* {
+  border: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  background: #2c2a38;
+  color: #ff4f81;
+}
+.mar {
+  margin-top: 50px;
+}
+i {
+  font-size: 20em;
+  color: #fff;
+}
