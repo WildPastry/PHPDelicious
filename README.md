@@ -1,3 +1,3 @@
 # PHP Delicious
 
-Practice building a basic PHP website, using less and Grunt.
+PHP template with Less and Grunt
