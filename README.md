@@ -1,3 +1,9 @@
 # PHP Delicious
 
-PHP template with Less and Grunt
+PHP with Less and Grunt
+
+## Development
+
+* **PHP** <br>
+* **Less** <br>
+* **Grunt** <br>
